@@ -16,7 +16,7 @@ Here you can run mutations via Graphiql IDE.
 
 You can add, edit and delete customers: see schema.js for ideas.
 
-For example, to add a customer to data.json file try this query:
+For example, to add a customer to the data.json file try this query:
 
 ```
 mutation{
